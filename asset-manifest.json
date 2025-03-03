@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/osten-relics/static/css/main.9df95f74.css",
+    "main.js": "/osten-relics/static/js/main.05b62d60.js",
+    "static/js/453.08a9b03f.chunk.js": "/osten-relics/static/js/453.08a9b03f.chunk.js",
+    "static/media/tg_01.jpg": "/osten-relics/static/media/tg_01.351640d324058eada517.jpg",
+    "static/media/hlm1_01.jpg": "/osten-relics/static/media/hlm1_01.f4a85996ea918eeb7adb.jpg",
+    "static/media/slick.svg": "/osten-relics/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/osten-relics/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/osten-relics/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/osten-relics/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/osten-relics/index.html",
+    "main.9df95f74.css.map": "/osten-relics/static/css/main.9df95f74.css.map",
+    "main.05b62d60.js.map": "/osten-relics/static/js/main.05b62d60.js.map",
+    "453.08a9b03f.chunk.js.map": "/osten-relics/static/js/453.08a9b03f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9df95f74.css",
+    "static/js/main.05b62d60.js"
+  ]
+}
