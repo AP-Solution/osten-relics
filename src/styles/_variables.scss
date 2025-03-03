@@ -1,0 +1,26 @@
+// Color palette
+$color-light: #F5F5F5;
+$color-dark: #1A1A1A;
+$color-accent: #D4AF37; // Rich gold color
+
+// Additional colors
+$color-text: $color-dark;
+$color-background: $color-light;
+$color-border: rgba($color-dark, 0.1);
+
+// Breakpoints
+$breakpoint-mobile: 576px;
+$breakpoint-tablet: 768px;
+$breakpoint-desktop: 1024px;
+
+// Spacing
+$spacing-xs: 0.25rem;
+$spacing-sm: 0.5rem;
+$spacing-md: 1rem;
+$spacing-lg: 1.5rem;
+$spacing-xl: 2rem;
+
+// Typography
+$font-primary: 'Inter', sans-serif;
+$font-size-base: 16px;
+$line-height-base: 1.5;

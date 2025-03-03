@@ -1,0 +1,136 @@
+{
+  "products": [
+    {
+      "id": "german-m35-helmet",
+      "mainImage": "/images/hlm1_01.jpg",
+      "imagePrefix": "hlm1",
+      "totalImages": 16,
+      "title": "German M35 Combat Helmet",
+      "description": "German M35 single decal combat steel helmet with two bullet (?) holes that was found near Kharkiv on the German 282.Infanterie-Division postions (battle in August 1943). The helmet is a «ET66» with a lot number of «4715».",
+      "price": 2500,
+      "currency": "USD",
+      "sold": false
+    },
+    {
+      "id": "k5j8",
+      "mainImage": "/images/fd_01.jpg",
+      "imagePrefix": "fd",
+      "totalImages": 10,
+      "title": "«Drahtschere»",
+      "description": "Wehrmacht Pioniere (combat engineer) long handled wire cutter or «Drahtschere». The tool bears the manufacturer's mark, Waffenamt, the year of production - 1939 and the letter «H», which stands for «Heer» - for ground forces. Also, the wire cutters were included in the standard tool kit for the Wehrmacht vehicles.",
+      "price": 1800,
+      "currency": "USD",
+      "sold": true
+    },
+    {
+      "id": "ht8n",
+      "mainImage": "/images/tg_01.jpg",
+      "imagePrefix": "tg",
+      "totalImages": 8,
+      "title": "MG.34/42 Tool Box Manual",
+      "description": "German steel MG 34/42 ammunition case in tan colour. The ammo box is stamped with the \"Patr.Kast.41 f.M.G.\"(Patronenkasten 41 für Maschinengewehr). Interior still retains the rubber seal along the top. The box closes very tightly.",
+      "price": 450,
+      "currency": "USD",
+      "sold": false
+    },
+    {
+      "id": "dvbf",
+      "mainImage": "/images/ln_01.jpg",
+      "imagePrefix": "ln",
+      "totalImages": 10,
+      "title": "MG34/42 Ammunition Case",
+      "description": "An early German aluminum MG.34 ammunition case (1940). The box is marked «963 1940» and «Waffenamt» and also inscribed in white paint «7.Gr. 1.K.» which means which unit this element of combat equipment belonged to, namely «7.Gruppe 1.Kompanie».",
+      "price": 800,
+      "currency": "USD",
+      "sold": false
+    },
+    {
+      "id": "klr65",
+      "mainImage": "/images/pk1_01.jpg",
+      "imagePrefix": "pk1",
+      "totalImages": 14,
+      "title": "Ammunition box 1938",
+      "description": "A rare early (1938) steel camouflage ammunition box for ten 5cm mortar rounds (for the German 5cm \"leichte Granatwerfer 36\" mortar). The storage case is painted in the factory three-tone camouflage spray finish and, unfortunately, void of interior. Absolutely not cleaned, \"as found\" contition.",
+      "price": 800,
+      "currency": "USD",
+      "sold": false
+    },
+    {
+      "id": "gfld",
+      "mainImage": "/images/qw1_01.jpg",
+      "imagePrefix": "qw1",
+      "totalImages": 11,
+      "title": "Original German folding tool box",
+      "description": "Original German folding insert for the MG.34/42 tool box (German: Kleiner Waffenmeister Behilfskasten für MG.34/42) in uncleaned relic condition.",
+      "price": 800,
+      "currency": "USD",
+      "sold": false
+    },
+    {
+      "id": "gdfc",
+      "mainImage": "/images/hlm2_01.jpg",
+      "imagePrefix": "hlm2",
+      "totalImages": 13,
+      "title": "M35 combat helmet",
+      "description": "Battle damaged M35 combat steel helmet that was repainted twice in the field over the factory coating. This was done primarily to remove glare that would reveal the position of the helmet owner and to camouflage it into the surrounding environment. The excavated item is in amazing condition - you can even see the scratched name of the owner. The shell size is 64.",
+      "price": 800,
+      "currency": "USD",
+      "sold": false
+    },
+    {
+      "id": "m90a",
+      "mainImage": "/images/bn_01.jpg",
+      "imagePrefix": "bn",
+      "totalImages": 14,
+      "title": "MG34/42 ammunition case",
+      "description": "Very nice late-war factory produced example of a MG34/42 ammunition case with a green camouflage over the tan factory paint. Manufactured from a sturdy pressed and formed metal sheet. The ammo box is stamped with the designation «Patr.Kast.41f.M.G.» along the bottom side and maker marked «bsl 43». Attic find from the Kharkov region.",
+      "price": 800,
+      "currency": "USD",
+      "sold": false
+    },
+    {
+      "id": "g8d3",
+      "mainImage": "/images/lk2_01.jpg",
+      "imagePrefix": "lk2",
+      "totalImages": 10,
+      "title": "Luftwaffe bag",
+      "description": "Unknown Luftwaffe bag with \"Fl.U.V.\" markings (abbreviation \"Fl.U.V.\" decoding that \"Flieger Unterkunfts Verwaltung\" which means \"Flight Barracks Administration\").",
+      "price": 800,
+      "currency": "USD",
+      "sold": false
+    },
+    {
+      "id": "fk89s",
+      "mainImage": "/images/ac_01.jpg",
+      "imagePrefix": "ac",
+      "totalImages": 10,
+      "title": "Luftwaffe belt buckle",
+      "description": "Rare chrome or nickel coated steel Luftwaffe belt buckle. It was found during the dismantling of an old house in the city of Chernigov.",
+      "price": 800,
+      "currency": "USD",
+      "sold": false
+    },
+    {
+      "id": "b50t",
+      "mainImage": "/images/fk_01.jpg",
+      "imagePrefix": "fk",
+      "totalImages": 7,
+      "title": "Forks with an image of Imperial Eagle",
+      "description": "Two forks with images of Imperial Eagles (German: Reichsadler) from the Reichswehr. The first fork is made of stainless steel (there is also a «ROSTFREY» stamp indicating this) in 1935, and the second is made of nickel silver and has a «H.U.» stamp, which means «Heeres Unterkunft» - the fork was intended for the Reichswehr ground forces. It was made in 1934 and was found at the bottom of a German bunker near the city of Kharkov. Nice pieces of the history.",
+      "price": 1800,
+      "currency": "USD",
+      "sold": true
+    },
+    {
+      "id": "fk54",
+      "mainImage": "/images/cx_01.jpg",
+      "imagePrefix": "cx",
+      "totalImages": 7,
+      "title": "MG.34/42 ammunition case",
+      "description": "An early German aluminum MG.34 ammunition case with a battle damage. The case was repainted light grey in the field. It is maker marked, dated « 1939 » and Waffenamt 123. The leather tabs on the handles are complete.",
+      "price": 1800,
+      "currency": "USD",
+      "sold": true
+    }
+  ]
+}
